@@ -1,0 +1,186 @@
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="samplewebsitedesign.com" resolutions="1x" timestamp="1532369094325">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_master.css" crc="4162181224" ref="works:commission-info:index:social-media"/>
+    <file name="works.css" crc="4115892556" ref="works"/>
+    <file name="commission-info.css" crc="41938307" ref="commission-info"/>
+    <file name="iefonts_commission-info.css" crc="4037989446" ref="commission-info"/>
+    <file name="index.css" crc="80417527" ref="index"/>
+    <file name="iefonts_index.css" crc="78493251" ref="index"/>
+    <file name="social-media.css" crc="3942339057" ref="social-media"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:works:commission-info:social-media"/>
+    <file name="museutils.js" crc="340535759" ref="index:works:commission-info:social-media"/>
+    <file name="whatinput.js" crc="86476730" ref="index:works:commission-info:social-media"/>
+    <file name="museconfig.js" crc="310584261" ref="index:works:commission-info:social-media"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:works:commission-info:social-media"/>
+    <file name="jquery.musemenu.js" crc="510910590" ref="index:works:commission-info:social-media"/>
+    <file name="webpro.js" crc="4059564322" ref="index:works"/>
+    <file name="form_check.php" crc="4020933626" ref="index"/>
+    <file name="form_throttle.php" crc="4259590256" ref="index"/>
+    <file name="form_process.php" crc="37464564" ref="index"/>
+    <file name="form-u397.php" crc="461539003" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:works:commission-info:social-media"/>
+    <file name="require.js" crc="7928878" ref="index:works:commission-info:social-media"/>
+    <file name="musewpslideshow.js" crc="3862962738" ref="works"/>
+    <file name="jquery.museoverlay.js" crc="4147669564" ref="works"/>
+    <file name="touchswipe.js" crc="4075097462" ref="works"/>
+  </folder>
+  <folder name="images">
+    <file name="arrowmenudown.png" crc="262559161" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="spacecat.png" crc="3889670356" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="sleepykitty.png" crc="4079449975" seo="true" ref="index:works:commission-info:social-media">
+      <caption webpage="index" alt=""/>
+      <caption webpage="social-media" alt=""/>
+      <caption webpage="works" alt=""/>
+      <caption webpage="commission-info" alt=""/>
+    </file>
+    <file name="stardust.jpg" crc="227761185" ref="index:works:commission-info:social-media">
+      <caption webpage="index" alt=""/>
+      <caption webpage="social-media" alt=""/>
+      <caption webpage="works" alt=""/>
+      <caption webpage="commission-info" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="works:social-media"/>
+    <file name="1-crop-u675.jpg" crc="4242961266" seo="true" ref="works">
+      <caption webpage="works" alt=""/>
+    </file>
+    <file name="6-crop-u1082.jpg" crc="399323881" seo="true" ref="works">
+      <caption webpage="works" alt=""/>
+    </file>
+    <file name="9-crop-u1142.jpg" crc="3900779095" seo="true" ref="works">
+      <caption webpage="works" alt=""/>
+    </file>
+    <file name="2-crop-u783.jpg" crc="4197592730" seo="true" ref="works">
+      <caption webpage="works" alt=""/>
+    </file>
+    <file name="4-crop-u1007.jpg" crc="421723411" seo="true" ref="works">
+      <caption webpage="works" alt=""/>
+    </file>
+    <file name="7-crop-u1102.jpg" crc="3770885959" seo="true" ref="works">
+      <caption webpage="works" alt=""/>
+    </file>
+    <file name="10-crop-u1162.jpg" crc="498065351" seo="true" ref="works">
+      <caption webpage="works" alt=""/>
+    </file>
+    <file name="5-crop-u1027.jpg" crc="3929666011" seo="true" ref="works">
+      <caption webpage="works" alt=""/>
+    </file>
+    <file name="8-crop-u1122.jpg" crc="4061393937" seo="true" ref="works">
+      <caption webpage="works" alt=""/>
+    </file>
+    <file name="3-crop-u816.jpg" crc="396216173" seo="true" ref="works">
+      <caption webpage="works" alt=""/>
+    </file>
+    <file name="1-crop-u679.jpg" crc="230850684" seo="true" ref="works">
+      <caption webpage="works" alt=""/>
+    </file>
+    <file name="4-crop-u1001.jpg" crc="303230576" seo="true" ref="works">
+      <caption webpage="works" alt=""/>
+    </file>
+    <file name="5-crop-u1021.jpg" crc="3810199270" seo="true" ref="works">
+      <caption webpage="works" alt=""/>
+    </file>
+    <file name="6-crop-u1076.jpg" crc="4184179967" seo="true" ref="works">
+      <caption webpage="works" alt=""/>
+    </file>
+    <file name="7-crop-u1096.jpg" crc="102484718" seo="true" ref="works">
+      <caption webpage="works" alt=""/>
+    </file>
+    <file name="8-crop-u1116.jpg" crc="472368574" seo="true" ref="works">
+      <caption webpage="works" alt=""/>
+    </file>
+    <file name="9-crop-u1136.jpg" crc="159041693" seo="true" ref="works">
+      <caption webpage="works" alt=""/>
+    </file>
+    <file name="10-crop-u1156.jpg" crc="4194827157" seo="true" ref="works">
+      <caption webpage="works" alt=""/>
+    </file>
+    <file name="3-crop-u810.jpg" crc="4004958003" seo="true" ref="works">
+      <caption webpage="works" alt=""/>
+    </file>
+    <file name="2-crop-u777.jpg" crc="4024072018" seo="true" ref="works">
+      <caption webpage="works" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="works"/>
+    <file name="10-crop-u1247.jpg" crc="498065351" seo="true" ref="works">
+      <caption webpage="works" alt=""/>
+    </file>
+    <file name="7-crop-u1233.jpg" crc="3770885959" seo="true" ref="works">
+      <caption webpage="works" alt=""/>
+    </file>
+    <file name="4-crop-u1245.jpg" crc="421723411" seo="true" ref="works">
+      <caption webpage="works" alt=""/>
+    </file>
+    <file name="5-crop-u1239.jpg" crc="3929666011" seo="true" ref="works">
+      <caption webpage="works" alt=""/>
+    </file>
+    <file name="2-crop-u1237.jpg" crc="4197592730" seo="true" ref="works">
+      <caption webpage="works" alt=""/>
+    </file>
+    <file name="3-crop-u1249.jpg" crc="396216173" seo="true" ref="works">
+      <caption webpage="works" alt=""/>
+    </file>
+    <file name="9-crop-u1243.jpg" crc="3900779095" seo="true" ref="works">
+      <caption webpage="works" alt=""/>
+    </file>
+    <file name="6-crop-u1235.jpg" crc="399323881" seo="true" ref="works">
+      <caption webpage="works" alt=""/>
+    </file>
+    <file name="8-crop-u1241.jpg" crc="4061393937" seo="true" ref="works">
+      <caption webpage="works" alt=""/>
+    </file>
+    <file name="1-crop-u1231.jpg" crc="4242961266" seo="true" ref="works">
+      <caption webpage="works" alt=""/>
+    </file>
+    <file name="10-crop-u1204.jpg" crc="4194827157" seo="true" ref="works">
+      <caption webpage="works" alt=""/>
+    </file>
+    <file name="2-crop-u1206.jpg" crc="4024072018" seo="true" ref="works">
+      <caption webpage="works" alt=""/>
+    </file>
+    <file name="6-crop-u1212.jpg" crc="4184179967" seo="true" ref="works">
+      <caption webpage="works" alt=""/>
+    </file>
+    <file name="7-crop-u1216.jpg" crc="102484718" seo="true" ref="works">
+      <caption webpage="works" alt=""/>
+    </file>
+    <file name="3-crop-u1208.jpg" crc="4004958003" seo="true" ref="works">
+      <caption webpage="works" alt=""/>
+    </file>
+    <file name="8-crop-u1218.jpg" crc="472368574" seo="true" ref="works">
+      <caption webpage="works" alt=""/>
+    </file>
+    <file name="4-crop-u1222.jpg" crc="303230576" seo="true" ref="works">
+      <caption webpage="works" alt=""/>
+    </file>
+    <file name="9-crop-u1220.jpg" crc="159041693" seo="true" ref="works">
+      <caption webpage="works" alt=""/>
+    </file>
+    <file name="1-crop-u1214.jpg" crc="230850684" seo="true" ref="works">
+      <caption webpage="works" alt=""/>
+    </file>
+    <file name="5-crop-u1210.jpg" crc="3810199270" seo="true" ref="works">
+      <caption webpage="works" alt=""/>
+    </file>
+    <file name="yt.png" crc="3846289744" seo="true" ref="social-media">
+      <caption webpage="social-media" alt=""/>
+    </file>
+    <file name="ig.png" crc="187608405" seo="true" ref="social-media">
+      <caption webpage="social-media" alt=""/>
+    </file>
+    <file name="discord.jpg" crc="327231568" seo="true" ref="social-media">
+      <caption webpage="social-media" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="472659939" seo="true" mt="1520526034510" redirect="true"/>
+  <file name="works.html" crc="32931090" seo="true" mt="1520526034510" redirect="true"/>
+  <file name="commission-info.html" crc="4060668410" seo="true" mt="1520526034510" redirect="true"/>
+  <file name="social-media.html" crc="530904865" seo="true" mt="1520526034510" redirect="true"/>
+</manifest>
